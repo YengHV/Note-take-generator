@@ -1,8 +1,8 @@
-var noteArray = [
+var noteSave = [
     {
         noteTitle: "Example",
         noteText: "This is where text go"
     }
 ];
 
-module.exports = noteArray;
+module.exports = noteSave;
