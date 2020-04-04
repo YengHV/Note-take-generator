@@ -1,8 +1,6 @@
 // require the db.json file
 const data = require("../db/db.json");
-
 const fs = require("fs");
-
 const path = require('path');
 
 module.exports = function(app) {
